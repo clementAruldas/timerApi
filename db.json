@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "timeList": [
+    {"title":"creating ","historyList":["Started the timer at 11/11/2023 22:28:27 (Active)","Started the timer at 11/11/2023 22:28:52 & Stopped at 11/11/2023 22:28:52"],"timer":"00:00:25","id":"c84b2f8c"},
+    {"title":"testing","historyList":["Started the timer at 11/11/2023 22:28:28 (Active)","Started the timer at 11/11/2023 22:28:45 & Stopped at 11/11/2023 22:28:45"],"timer":"00:00:17","id":"7054344e"}]
+,
+  
 }
